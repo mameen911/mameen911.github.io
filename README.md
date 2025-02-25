@@ -17,7 +17,7 @@ You can view the live demo of my profile at the following link:
 
 ## About Me
 
-I am Muhammad Ameen, a passionate software developer with expertise in C#, Java, Python, web development, cloud computing, and networking. I enjoy problem-solving, working in teams, and continuously learning new technologies.
+I am a passionate software developer with expertise in C#, Java, Python, web development, cloud computing, and networking. I enjoy problem-solving, working in teams, and continuously learning new technologies.
 
 ## Skills
 
