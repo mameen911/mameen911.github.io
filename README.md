@@ -32,7 +32,7 @@ I am a passionate software developer with expertise in C#, Java, Python, web dev
 
 ## Experience
 
-### Website Developer - Superb Hyper (2025 - Present)
+### Web Development|(2025 - Present)
 - Managed an e-commerce platform with improved data management and item uploads.
 - Implemented automation and custom scripts for business improvements.
 - Analyzed data from ERP systems and stock files for insights.
