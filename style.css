@@ -79,6 +79,14 @@ header p {
     opacity: 0.9;
 }
 
+header .header-image {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 /* Sections */
 section {
     max-width: 900px;
@@ -142,5 +150,46 @@ footer {
         padding: 20px;
         margin: 10px;
     }
+
+    header {
+        padding: 60px 20px;
+    }
+
+    header h1 {
+        font-size: 2em;
+    }
+
+    header p {
+        font-size: 1em;
+    }
+
+    header .header-image {
+        max-width: 90%;
+    }
+
+    #skills .section-image {
+        max-width: 100%;
+    }
+
+    ul li {
+        font-size: 14px;
+    }
 }
 
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    header .header-image {
+        max-width: 80%;
+    }
+
+    ul li {
+        font-size: 12px;
+    }
+}
