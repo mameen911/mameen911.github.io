@@ -37,14 +37,6 @@ I am a passionate software developer with expertise in C#, Java, Python, web dev
 - Implemented automation and custom scripts for business improvements.
 - Analyzed data from ERP systems and stock files for insights.
 
-Website: [superbhyper.co.za](https://superbhyper.co.za)
-
-### Financial Assistant & Sales Representative - Atlantic African Trading (2024 - 2025)
-- Prepared and analyzed financial reports, ensuring accuracy in expenses and salaries.
-- Sourced and procured goods from reliable suppliers.
-- Provided exceptional customer service and built long-term business relationships.
-
-Website: [AtlanticAfricanTrading.co.za](https://AtlanticAfricanTrading.co.za)
 
 ## Projects
 
