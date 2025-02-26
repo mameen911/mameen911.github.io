@@ -13,7 +13,7 @@ Welcome to my GitHub Profile! This is a personal portfolio website to showcase m
 ## View Demo
 
 You can view the live demo of my profile at the following link:
-[View Demo](http://127.0.0.1:5500/mameen911.github.io/)
+[View Demo](mameen911.github.io)
 
 ## About Me
 
